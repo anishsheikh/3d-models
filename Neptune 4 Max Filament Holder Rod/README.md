@@ -6,4 +6,5 @@ teflon tube to fit..
 for rapid prototyping and using measuring tools like callipers and rulers. its easier to use a notebook.
 but well i can do this too. it feels better to copy and modify american and western tech tho. idk why.
 everything is dual purpose for them. just dont shove it in your ass as it might not fit.
-![n4mfilrod](https://github.com/anishsheikh/3d-models/assets/38411333/2f84077d-cd39-4f9d-8ea1-c73ae8e69e37)
+
+![molded_part1](https://github.com/anishsheikh/3d-models/assets/38411333/093854f0-586d-4ebd-ab66-3a042e048c0b)
