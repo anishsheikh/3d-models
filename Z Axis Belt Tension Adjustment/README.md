@@ -12,7 +12,8 @@ M4 post/pre assembly T nuts.
 M4 15MM nuts.
 M3 20MM nuts.
 M3 50MM nuts and bolts.
-
+Same usage of Belt Tension Adjuster Materials.
+Rest of it is with ABS.
 ver = 1.0
 ![Screenshot (7)](https://github.com/anishsheikh/3d-models/assets/38411333/eb540006-5a5d-4092-b4eb-ecd088875545)
 ![Screenshot (8)](https://github.com/anishsheikh/3d-models/assets/38411333/e7d269a8-d861-4ce4-9156-8b0ac6fbb6d4)
