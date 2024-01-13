@@ -11,6 +11,7 @@ M3 nut inserts.
 M4 post/pre assembly T nuts.
 M4 15MM nuts.
 M3 20MM nuts.
+M3 50MM nuts and bolts.
 
 ver = 1.0
 ![Screenshot (7)](https://github.com/anishsheikh/3d-models/assets/38411333/eb540006-5a5d-4092-b4eb-ecd088875545)
